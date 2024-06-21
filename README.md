@@ -15,5 +15,7 @@ Multiple winners are allowed:
 Goals:
 
 Try to get this on discord?
+
 Add other games to it.
+
 Add some sort of chip system, or betting?
