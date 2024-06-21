@@ -1,0 +1,14 @@
+C:\Users\Mehrob\Desktop\jobs\BlackJackC#\BlackJackC#\bin\Debug\net8.0\BlackJackC#.exe
+C:\Users\Mehrob\Desktop\jobs\BlackJackC#\BlackJackC#\bin\Debug\net8.0\BlackJackC#.deps.json
+C:\Users\Mehrob\Desktop\jobs\BlackJackC#\BlackJackC#\bin\Debug\net8.0\BlackJackC#.runtimeconfig.json
+C:\Users\Mehrob\Desktop\jobs\BlackJackC#\BlackJackC#\bin\Debug\net8.0\BlackJackC#.dll
+C:\Users\Mehrob\Desktop\jobs\BlackJackC#\BlackJackC#\bin\Debug\net8.0\BlackJackC#.pdb
+C:\Users\Mehrob\Desktop\jobs\BlackJackC#\BlackJackC#\obj\Debug\net8.0\BlackJackC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehrob\Desktop\jobs\BlackJackC#\BlackJackC#\obj\Debug\net8.0\BlackJackC#.AssemblyInfoInputs.cache
+C:\Users\Mehrob\Desktop\jobs\BlackJackC#\BlackJackC#\obj\Debug\net8.0\BlackJackC#.AssemblyInfo.cs
+C:\Users\Mehrob\Desktop\jobs\BlackJackC#\BlackJackC#\obj\Debug\net8.0\BlackJackC#.csproj.CoreCompileInputs.cache
+C:\Users\Mehrob\Desktop\jobs\BlackJackC#\BlackJackC#\obj\Debug\net8.0\BlackJackC#.dll
+C:\Users\Mehrob\Desktop\jobs\BlackJackC#\BlackJackC#\obj\Debug\net8.0\refint\BlackJackC#.dll
+C:\Users\Mehrob\Desktop\jobs\BlackJackC#\BlackJackC#\obj\Debug\net8.0\BlackJackC#.pdb
+C:\Users\Mehrob\Desktop\jobs\BlackJackC#\BlackJackC#\obj\Debug\net8.0\BlackJackC#.genruntimeconfig.cache
+C:\Users\Mehrob\Desktop\jobs\BlackJackC#\BlackJackC#\obj\Debug\net8.0\ref\BlackJackC#.dll
